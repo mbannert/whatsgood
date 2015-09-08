@@ -1,2 +1,0 @@
-# whatsgood
-everyday analytics.
