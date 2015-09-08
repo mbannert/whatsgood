@@ -1,0 +1,16 @@
+# Site settings
+title: whatsgood.io &#58;&#58;&#58; 5 til 9 data science.
+email: learnfrominfo@whatsgood.io
+description: > 
+  5 til 9 data science.<br />
+  everyday analytics&<br />
+  visualizations&<br />
+  code snippets&<br />
+  random thoughts.  
+baseurl: "/whatsgood" # the subpath of your site, e.g. /blog/
+url: "http://whatsgood.io" # the base hostname & protocol for your site
+twitter_username: learnfrominfo
+github_username:  mbannert
+
+# Build settings
+markdown: kramdown
