@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About: Afterwork Analytics
+title: Afterwork Analytics
 permalink: /about/
 ---
 
