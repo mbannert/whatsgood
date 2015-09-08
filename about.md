@@ -1,11 +1,12 @@
 ---
 layout: page
-title: About
+title: About: Afterwork Analytics
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+No matter if you make use of the information, a fair amount of everything is being tracked anyway. 
+Actually learning from information can be useful and fun alike. The latter holds in particular when 
+learning from information is neither done for paychecks nor to optimize your employers bank account.
+Data driven wizadry doesn't stop at office doors. It beats your pals in fantasy sports leagues, backs up arguments, or simply inspires. This page collects snapshots of my journey through the jungle of information. I hope you enjoy the thoughts, tips, code examples, links, comments and the crap.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+**MB**
